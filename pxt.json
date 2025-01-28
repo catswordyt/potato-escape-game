@@ -1,5 +1,5 @@
 {
-    "name": "potato escape - Copy",
+    "name": "pain",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -19,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.55",
+        "target": "1.12.58",
         "targetId": "arcade"
     },
     "supportedTargets": [
